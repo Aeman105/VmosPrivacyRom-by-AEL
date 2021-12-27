@@ -43,5 +43,13 @@ Reboot Rom And try again
 Downgrade to old version of vmos if you using latest one
 
 3.Magisk is supported?
-No because magisk need boot.img to work and 
-VMOS (and other vm's app) didn't have it yet
+No because magisk need boot.img to work
+
+# Warning!
+1. VMOS using chroot environment
+chroot environment have serveral problem included installing custom script
+and busybox
+
+2. VMOS is chinese apps
+chinese apps may track you and sell your data
+to solve this problem use app like RethinkDNS 
