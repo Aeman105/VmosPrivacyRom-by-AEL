@@ -47,9 +47,11 @@ No because magisk need boot.img to work
 
 # Warning!
 1. VMOS using chroot environment
+
 chroot environment have serveral problem included installing custom script
 and busybox
 
 2. VMOS is chinese apps
+
 chinese apps may track you and sell your data
 to solve this problem use app like RethinkDNS 
